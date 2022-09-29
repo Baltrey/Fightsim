@@ -1,0 +1,15 @@
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\bin\Debug\net6.0\Fightsim.exe
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\bin\Debug\net6.0\Fightsim.deps.json
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\bin\Debug\net6.0\Fightsim.runtimeconfig.json
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\bin\Debug\net6.0\Fightsim.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\bin\Debug\net6.0\Fightsim.pdb
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.csproj.AssemblyReference.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.AssemblyInfoInputs.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.AssemblyInfo.cs
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.csproj.CoreCompileInputs.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\refint\Fightsim.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.pdb
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\Fightsim.genruntimeconfig.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Fightsim\Fightsim\obj\Debug\net6.0\ref\Fightsim.dll
